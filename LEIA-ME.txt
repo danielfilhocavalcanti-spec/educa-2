@@ -1,0 +1,5 @@
+EcoPlay — páginas HTML aprimoradas
+
+Substitua os HTMLs do repositório pelos arquivos deste pacote, mantendo os nomes originais. O pacote padroniza o rótulo Jogos, inclui links para Para professores, orientações pedagógicas e descrições dos jogos.
+
+O style.css compartilhado não foi alterado. Preserve style.css, ajustes.css, pwa.js, manifest.json, ícones e demais recursos existentes. Faça backup antes de substituir os arquivos e teste em celular e computador após publicar.
